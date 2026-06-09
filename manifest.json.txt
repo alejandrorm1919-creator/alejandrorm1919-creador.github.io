@@ -1,0 +1,28 @@
+﻿manifest.json
+
+
+{
+  "name": "Inventario Personal Pro",
+  "short_name": "Inventario",
+  "description": "Sistema avanzado de control de herramientas e insumos locales.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#1a1d27",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%23f0c040' width='192' height='192' rx='45'/><text x='96' y='120' font-size='100' font-weight='bold' text-anchor='middle' dominant-baseline='middle'>🔧</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%23f0c040' width='192' height='192' rx='45'/><text x='96' y='120' font-size='100' font-weight='bold' text-anchor='middle' dominant-baseline='middle'>🔧</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
